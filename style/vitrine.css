@@ -72,6 +72,15 @@ button{
 }
 .p6{
     background: white;
-    border: groove 2px;
+    border: groove #e6e6e6 2px;
     font-family: "Open-sans";
+}
+
+.navigationcolor {
+    color: white;
+
+}
+.navigationcolor:hover{
+    color: #17c1ff;
+
 }
