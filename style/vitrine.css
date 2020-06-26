@@ -4,10 +4,10 @@
 }
 
 body {
-    text-align: center;
     background-color: #f2f2f2;
     font-size: 14px;
     text-align: center;
+
 }
 @font-face {
     font-family: 'nasalization-rg';
@@ -17,11 +17,26 @@ h1 {
     font-family: "nasalization-rg";
     color: #27d1ff ;
     font-size: 40px;
-    text-align: center;
     vertical-align: middle;
+    text-align: center;
     
 }
+
 header {
     background-image: url(texture-header.jpg);
     background-size: 150px;
+}
+nav {
+    background:#2e2f30;
+    color: white;
+    text-align: right;
+}
+
+h2 {
+    box-shadow: 8px black ;
+    font-family: "Opensans" ;
+}
+p {
+    width: 750px;
+    padding: 10px;
 }
