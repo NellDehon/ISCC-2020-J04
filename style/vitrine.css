@@ -28,15 +28,50 @@ header {
 }
 nav {
     background:#2e2f30;
+    margin-right: 50px;
+    margin: 0px;
     color: white;
     text-align: right;
+    vertical-align: middle;
 }
 
 h2 {
     box-shadow: 8px black ;
     font-family: "Opensans" ;
+    columns: #e6e6e6;
 }
-p {
+
+p{
+    margin-left: 330px;
     width: 750px;
-    padding: 10px;
+}
+
+.p2{
+    float: none;
+}
+
+table{
+    background: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 550px;
+}
+.p3{
+    background: #27d1ff;
+    color: white;
+}
+.p4{
+    background: #27d1ff;
+    color: white;
+}
+button{
+    background: #27d1ff;
+    color: white;
+    margin-left: 20px;
+
+}
+.p6{
+    background: white;
+    border: groove 2px;
+    font-family: "Open-sans";
 }
